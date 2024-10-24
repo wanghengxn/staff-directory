@@ -1,0 +1,12 @@
+name = "staff-directory"
+compatibility_date = "2023-12-01"
+compatibility_flags = [ "nodejs_compat" ]
+
+[[r2_buckets]]
+binding = "MY_BUCKET"
+bucket_name = "employee-avatars"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "staff-directory"
+database_id = "2a642de3-4c0c-4396-b74d-f1441179047d"
