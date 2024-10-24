@@ -1,6 +1,7 @@
 name = "staff-directory"
 compatibility_date = "2023-12-01"
 compatibility_flags = [ "nodejs_compat" ]
+pages_build_output_dir = "./dist"
 
 [[r2_buckets]]
 binding = "MY_BUCKET"
